@@ -1,0 +1,13 @@
+.container{
+	width: 30%;
+	margin-top: 9%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+	padding: 40px;
+}
+button{
+	width: 49%;
+}
+span{
+	width: 30%;
+}
+
