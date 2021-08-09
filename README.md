@@ -12,6 +12,7 @@ Fitur Fitur
 * LogOut
 * Dan Lain - Lain
 
+# Halaman Login
 
-* LOgin     : admin1
+* Login     : admin1
 * Password  : admin
